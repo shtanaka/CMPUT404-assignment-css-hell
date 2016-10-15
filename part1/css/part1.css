@@ -1,0 +1,66 @@
+body {
+	background-image: url("../img/bg.jpg") !important;
+	background-repeat: repeat-y;
+	background-size: 100%;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #51301A;	
+}
+
+p{
+	position: relative;
+	margin-left: 10em;
+	margin-right: 10em;
+	font-size: 130%;
+
+}
+
+pre {
+	position: relative;
+	margin-left: 20em;
+	margin-right: 10em;
+}
+
+h1, h2, h3, h4 {
+	position: relative;
+	margin-left: 10em;
+	margin-right: 10em;
+	font-style: oblique;
+	color: #73503C;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+#custom-figure {
+	display: block;
+    margin: auto;
+}
+
+#custom-figure figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 120%;
+}
+
+.paris {
+	border: 1px solid #ddd;
+	border-radius: 50%;
+    padding: 5px;
+}
+
+.caption {
+	display: block;
+	margin: auto;
+}
+
+#paris-img {
+	opacity: 0;
+}
+
+#paris-img {
+	opacity: 1;
+}
+
+

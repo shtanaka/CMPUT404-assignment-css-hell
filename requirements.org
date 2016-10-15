@@ -30,15 +30,15 @@
 
 *** Requirements
 
-    - [ ] Theme paragraphs with CSS
-    - [ ] Theme header tags with CSS
-    - [ ] Theme images and images captions with CSS
-    - [ ] Change the colour scheme to something aesthetically pleasing
-    - [ ] Apply 1 CSS file to 3 gutenberg documents.
-    - [ ] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
-    - [ ] document in your README what modifications you had to make
+    - [x] Theme paragraphs with CSS
+    - [x] Theme header tags with CSS
+    - [x] Theme images and images captions with CSS
+    - [x] Change the colour scheme to something aesthetically pleasing
+    - [x] Apply 1 CSS file to 3 gutenberg documents.
+    - [x] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
+    - [x] document in your README what modifications you had to make
       to the project gutenberg HTML files.
-    - [ ] Take 3 screenshots of firefox running all of your pages that
+    - [x] Take 3 screenshots of firefox running all of your pages that
       demonstrates your theme.
 
 ** Part II 
@@ -69,25 +69,25 @@
 
 *** Requirements
 
-    - [ ] 4 sections: who you are, your history, what you have to
+    - [x] 4 sections: who you are, your history, what you have to
       offer, important points about you
-    - [ ] 1 Ugly CSS theme
-    - [ ] 1 good CSS theme
-    - [ ] Ugly theme has to be noticeabley different.
-    - [ ] 2 HTML files, each with the same content but different CSS
-    - [ ] your photo (try to keep it professional)
-    - [ ] Take 2 screenshots of firefox running all of your pages that
+    - [x] 1 Ugly CSS theme
+    - [x] 1 good CSS theme
+    - [x] Ugly theme has to be noticeabley different.
+    - [x] 2 HTML files, each with the same content but different CSS
+    - [x] your photo (try to keep it professional)
+    - [x] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
-    - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
+    - [x] Ensure that files are appropriately named and CASE SENSITIVE.
     
 
 ** Restrictions
-   - [ ] Use Python 2.7
-   - [ ] Must run in the undergrad lab (Ubuntu 12.04)
+   - [x] Use Python 2.7
+   - [x] Must run in the undergrad lab (Ubuntu 12.04)
    - [ ] License your content properly (use a Creative Commons License
      like CC-BY-ND or CC-BY-SA)
      - Put your name on it!
-   - [ ] If you borrow CSS, always cite the author and the source
+   - [x] If you borrow CSS, always cite the author and the source
 
 ** Recommendations
 

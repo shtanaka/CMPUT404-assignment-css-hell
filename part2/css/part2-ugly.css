@@ -1,0 +1,140 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#container {
+    width: 100%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+#header-top {
+	background-image: url("../img/nyan_cat-wallpaperswide.jpg");
+	background-size: 100%;
+
+	height: 115px;	
+}
+
+#header-logo {
+	margin-left: 15%;
+	margin-right: 15%;
+	height: 300px;
+	width: 100%;
+    background-image: url("../img/stars-freepik.jpg");
+    background-size: 70%;
+    background-repeat: no-repeat;
+
+}
+
+#header-logo .header-text {
+	margin-left: 500px;
+	padding-top: 70px;
+	color: #00FF00;
+}
+
+#header-logo .header-text h1{
+	-ms-transform: rotate(-7deg);	
+	-webkit-transform: rotate(-7deg);
+	transform: rotate(-7deg);
+}
+
+#header-logo .header-text h2{
+	-ms-transform: rotate(7deg);
+	-webkit-transform: rotate(7deg); 
+	transform: rotate(7deg);
+}
+
+#header .menu {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: pink;
+	width: 70%;
+	margin-bottom: 50px;
+	font-size: 130%;
+}
+#header .menu a {
+	background-color: green;
+	margin-right: 50px;
+}
+
+#header .menu a:visited, a:link {
+	text-decoration: none;
+	color: purple;
+}
+
+#header .menu a:hover {
+	color: #00FF00;
+}
+
+#content {
+	direction: ltr;
+	display: flex;
+	display: -webkit-flex;
+
+}
+#sidebar {
+	direction: rtl;
+	background-color: yellow;
+	color: green;
+	margin-left: auto;
+	width: 300px;
+	height: 300px;
+}
+
+#sidebar h2, h3, h4 {
+	text-align: left;
+	padding-left: 20px;
+}
+
+#sidebar h2 {
+	font-size: 270%;
+	margin-top: 0px;
+}
+
+#sidebar h3 {
+	margin-bottom: 0px;
+	font-size: 150%;
+}
+
+#sidebar h4 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#sections {
+	margin-left: 200px;
+	direction: ltr;
+	position: relative;
+	font-size: 130%;
+	margin-right: auto;
+}
+
+#who .text {
+	margin-left: 20px; 
+	width: 600px;
+	color: green;
+}
+
+#who .personal-photo {
+	border: 5px solid #00FF00;
+    width: 200px;
+    height: 200px;
+}
+
+#professional {
+	color: blue;
+	margin-left: 20px; 
+	width: 800px;
+    align-content: left;
+}
+
+#offer {
+	color: red;
+	margin-left: 20px; 
+	width: 800px;
+    align-content: left;
+}

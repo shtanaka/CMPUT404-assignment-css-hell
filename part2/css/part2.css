@@ -1,0 +1,122 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#container {
+    width: 100%;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#header {
+    text-align: center;
+}
+
+#header-top {
+	background-image: url("../img/O5GLL60.jpg");
+	background-size: 100%;
+	height: 40px;	
+}
+
+#header-logo {
+	height: 300px;
+	width: 100%;
+    background-image: url("../img/brg-wallpapermaven.jpg");
+    background-size: 100%;
+}
+
+#header-logo .header-text {
+	padding-top: 70px;
+	color: #FFF;
+}
+
+#header .menu {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #575757;
+	color: #FFF;
+	margin-bottom: 50px;
+	font-size: 130%;
+}
+#header .menu a {
+	margin-right: 50px;
+}
+
+#header .menu a:visited, a:link {
+	text-decoration: none;
+	color: #FFF;
+}
+
+#header .menu a:hover {
+	color: #1985C6;
+}
+
+#content {
+	direction: rtl;
+	display: flex;
+	display: -webkit-flex;
+
+}
+#sidebar {
+	min-width: 300px;
+	direction: ltr;
+	background-color: #EFEFEF;
+	margin-right: auto;
+	width: 300px;
+	height: 300px;
+}
+
+#sidebar h2, h3, h4 {
+	text-align: center;
+}
+
+#sidebar h2 {
+	font-size: 270%;
+	margin-top: 0px;
+}
+
+#sidebar h3 {
+	margin-bottom: 0px;
+	font-size: 150%;
+}
+
+#sidebar h4 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#sections {
+	margin-right: 200px;
+	direction: ltr;
+	position: relative;
+	font-size: 130%;
+	margin-left: auto;
+}
+
+#who {
+	display: flex;
+	display: -webkit-flex;
+}
+
+.awho:hover {
+	transition:all 1s linear;
+	-webkit-transition:all 1s linear;
+}
+#who .text {
+	margin-left: 20px; 
+	width: 600px;
+    align-content: left;
+}
+
+#who .personal-photo {
+	border: 1px solid #ddd;
+	border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+#professional, #offer {
+	margin-left: 20px; 
+	width: 800px;
+    align-content: left;
+}
